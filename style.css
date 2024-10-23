@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Arima:wght@100..700&display=swap');
+
+:root{
+    --color1: #ff3366 ;
+--color2: #c74066 ;
+--color3: #8f4d65 ;
+--color4: #373941 ;
+--color5: #1f6764 ;
+font-family: "Arima", system-ui;
+}
+
+body{
+    background-color: var(--color5);
+    color: var(--color4);
+    font-family: var(--color1);
+}
